@@ -1,0 +1,8 @@
+{
+  "build": {
+    "env": {
+      "NEXTAUTH_URL": "https://agentic-b047295c.vercel.app",
+      "NEXTAUTH_SECRET": "test-secret-placeholder"
+    }
+  }
+}
